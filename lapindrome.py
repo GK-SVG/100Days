@@ -1,7 +1,3 @@
-
-
-#-------------------------------------DAY1 CODING---------------------------------------------------------------
-
 test=int(input())
 while test:
     s=input()
@@ -22,4 +18,5 @@ while test:
         print('YES')
     else: 
         print('NO')
+    test-=1
  
